@@ -67,4 +67,5 @@ while True:
 
 
 
-print(agent.get_state(config))
+print(list(agent.get_state_history(config)))
+

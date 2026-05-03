@@ -1,0 +1,90 @@
+StateSnapshot(values={'messages': [HumanMessage(content='who iam i', additional_kwargs={}, response_metadata={}, id='5bc4e4e1-c25d-41e1-b323-e431b4ca440d'), AIMessage(content='I’m not sure exactly what you’re looking for, but here’s a quick take:\u202fyou are a unique individual with your own thoughts, feelings, and experiences. If you’d like to explore that idea further or talk about identity in a specific context, just let me know!', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 303, 'prompt_tokens': 74, 'total_tokens': 377
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_e1634aab79', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019db9f0-1a06-7792-b98d-7849380a014d-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 74, 'output_tokens': 303, 'total_tokens': 377
+        }), HumanMessage(content='my name is azher ali', additional_kwargs={}, response_metadata={}, id='2cfd191a-22ff-4290-8fb6-7cfe9429362a'), AIMessage(content='Nice to meet you,\u202fAzher\u202fAli! How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 60, 'prompt_tokens': 147, 'total_tokens': 207
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019db9f0-4059-7c33-a8da-093379fda725-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 147, 'output_tokens': 60, 'total_tokens': 207
+        }), HumanMessage(content='who im i', additional_kwargs={}, response_metadata={}, id='c0862d32-58d6-4a30-aa21-28bf392cb115'), AIMessage(content='Hey Azher!  \nYou’re the person who’s just typed “who im i” into a chat, which already tells me you’re curious about your identity and what makes you, *you*.  \nIn short: **you are Azher\u202fAli**—a unique combination of your memories, values, relationships, and aspirations. Beyond that, you’re a living story that’s still unfolding.\n\nIf you’re looking for a deeper dive—whether it’s about your personality, your goals, or how you see yourself in the world—feel free to share a bit more. I’m here to chat and help you unpack whatever you’re wondering about!', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 217, 'prompt_tokens': 178, 'total_tokens': 395
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019db9f0-5793-7ee2-ab9c-a930d57b2f56-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 178, 'output_tokens': 217, 'total_tokens': 395
+        })
+    ]
+}, next=(), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f015-058c-6084-8007-9d063d07bca9'
+    }
+}, metadata={'source': 'loop', 'step': 7, 'parents': {}
+}, created_at='2026-04-23T10: 43: 50.070648+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f014-fddb-6d27-8006-794b5be05bc4'
+    }
+}, tasks=(), interrupts=())
+
+
+
+StateSnapshot(values={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c'), AIMessage(content='Hello Azher Ali! 👋 How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 53, 'prompt_tokens': 78, 'total_tokens': 131
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-011c-78f1-85ae-17a0a5a3c19c-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 78, 'output_tokens': 53, 'total_tokens': 131
+        }), HumanMessage(content='who am i', additional_kwargs={}, response_metadata={}, id='ee1c3ef2-e40d-4b31-b24c-1436089f379f'), AIMessage(content='You’re Azher\u202fAli—an individual who has chosen to share a bit of yourself here. Beyond that, the details of who you are—your interests, experiences, values, goals—are uniquely yours. If you’d like to explore or reflect on any part of your identity, feel free to let me know!', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 241, 'prompt_tokens': 105, 'total_tokens': 346
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_6fb97b13e6', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-1e7f-7382-8226-dcc20947b4ba-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 105, 'output_tokens': 241, 'total_tokens': 346
+        })
+    ]
+}, next=(), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f132-1e92-6a4a-8004-45264b8c1c59'
+    }
+}, metadata={'source': 'loop', 'step': 4, 'parents': {}
+}, created_at='2026-04-23T12: 51: 23.105288+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f132-177f-6d3c-8003-a698470b289a'
+    }
+}, tasks=(), interrupts=()), StateSnapshot(values={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c'), AIMessage(content='Hello Azher Ali! 👋 How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 53, 'prompt_tokens': 78, 'total_tokens': 131
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-011c-78f1-85ae-17a0a5a3c19c-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 78, 'output_tokens': 53, 'total_tokens': 131
+        }), HumanMessage(content='who am i', additional_kwargs={}, response_metadata={}, id='ee1c3ef2-e40d-4b31-b24c-1436089f379f')
+    ]
+}, next=('chatbot_node',), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f132-177f-6d3c-8003-a698470b289a'
+    }
+}, metadata={'source': 'loop', 'step': 3, 'parents': {}
+}, created_at='2026-04-23T12: 51: 22.363580+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f132-177a-6535-8002-e503e90c8ed6'
+    }
+}, tasks=(PregelTask(id='ee13215f-9fe7-51b3-330d-481f1df54168', name='chatbot_node', path=('__pregel_pull', 'chatbot_node'), error=None, interrupts=(), state=None, result={'messages': [AIMessage(content='You’re Azher\u202fAli—an individual who has chosen to share a bit of yourself here. Beyond that, the details of who you are—your interests, experiences, values, goals—are uniquely yours. If you’d like to explore or reflect on any part of your identity, feel free to let me know!', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 241, 'prompt_tokens': 105, 'total_tokens': 346
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_6fb97b13e6', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-1e7f-7382-8226-dcc20947b4ba-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 105, 'output_tokens': 241, 'total_tokens': 346
+        })
+    ]
+}),), interrupts=()), StateSnapshot(values={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c'), AIMessage(content='Hello Azher Ali! 👋 How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 53, 'prompt_tokens': 78, 'total_tokens': 131
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-011c-78f1-85ae-17a0a5a3c19c-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 78, 'output_tokens': 53, 'total_tokens': 131
+        })
+    ]
+}, next=('__start__',), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f132-177a-6535-8002-e503e90c8ed6'
+    }
+}, metadata={'source': 'input', 'step': 2, 'parents': {}
+}, created_at='2026-04-23T12: 51: 22.361304+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-ebb3-6def-8001-a62f70c7ef72'
+    }
+}, tasks=(PregelTask(id='6f6a56c3-024d-e80b-cf15-9b7dd645c316', name='__start__', path=('__pregel_pull', '__start__'), error=None, interrupts=(), state=None, result={'messages': [HumanMessage(content='who am i', additional_kwargs={}, response_metadata={}, id='ee1c3ef2-e40d-4b31-b24c-1436089f379f')
+    ]
+}),), interrupts=()), StateSnapshot(values={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c'), AIMessage(content='Hello Azher Ali! 👋 How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 53, 'prompt_tokens': 78, 'total_tokens': 131
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-011c-78f1-85ae-17a0a5a3c19c-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 78, 'output_tokens': 53, 'total_tokens': 131
+        })
+    ]
+}, next=(), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-ebb3-6def-8001-a62f70c7ef72'
+    }
+}, metadata={'source': 'loop', 'step': 1, 'parents': {}
+}, created_at='2026-04-23T12: 51: 17.771168+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-cfba-6f99-8000-6fcc08d36b3e'
+    }
+}, tasks=(), interrupts=()), StateSnapshot(values={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c')
+    ]
+}, next=('chatbot_node',), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-cfba-6f99-8000-6fcc08d36b3e'
+    }
+}, metadata={'source': 'loop', 'step': 0, 'parents': {}
+}, created_at='2026-04-23T12: 51: 14.838041+00: 00', parent_config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-cfae-6e8b-bfff-d43e9dffc081'
+    }
+}, tasks=(PregelTask(id='52390f97-e826-c61c-89af-4af892a2e69f', name='chatbot_node', path=('__pregel_pull', 'chatbot_node'), error=None, interrupts=(), state=None, result={'messages': [AIMessage(content='Hello Azher Ali! 👋 How can I help you today?', additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 53, 'prompt_tokens': 78, 'total_tokens': 131
+            }, 'model_name': 'openai/gpt-oss-20b', 'system_fingerprint': 'fp_d6de37e6be', 'finish_reason': 'stop', 'logprobs': None
+        }, id='lc_run--019dba65-011c-78f1-85ae-17a0a5a3c19c-0', tool_calls=[], invalid_tool_calls=[], usage_metadata={'input_tokens': 78, 'output_tokens': 53, 'total_tokens': 131
+        })
+    ]
+}),), interrupts=()), StateSnapshot(values={'messages': []
+}, next=('__start__',), config={'configurable': {'thread_id': '1', 'checkpoint_ns': '', 'checkpoint_id': '1f13f131-cfae-6e8b-bfff-d43e9dffc081'
+    }
+}, metadata={'source': 'input', 'step': -1, 'parents': {}
+}, created_at='2026-04-23T12: 51: 14.833113+00: 00', parent_config=None, tasks=(PregelTask(id='0a94b87d-c82b-52b3-2021-bba799ed7e7e', name='__start__', path=('__pregel_pull', '__start__'), error=None, interrupts=(), state=None, result={'messages': [HumanMessage(content='my name is azher ali hi', additional_kwargs={}, response_metadata={}, id='25e2ccf8-c17f-4ead-ba8d-5c52dbcd3f2c')
+    ]
+}),), interrupts=())
+]
